@@ -1,0 +1,214 @@
+/* Background-image */
+.bg-img {
+  position: absolute;
+  width: 100%;
+  z-index: -10;
+  opacity: 0.7;
+}
+
+/* Containers */
+
+.container-fluid {
+  padding: 8% 2% 2% 2%;
+}
+
+/* Nav-Bar */
+.navbar-brand,
+.nav-link:hover {
+  color: whitesmoke;
+  cursor: pointer;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  color: black;
+  font-size: 3rem;
+  padding: 0rem 6rem;
+}
+ul {
+  margin: 0rem 6rem;
+}
+li {
+  padding: 0rem 2rem;
+}
+
+.nav-link {
+  color: black;
+  font-size: 1.3rem;
+}
+
+/* Title-Head */
+a {
+  color: black;
+  text-decoration: none;
+}
+/* a:hover{
+    color: black;
+  } */
+.title-text {
+  cursor: pointer;
+  position: relative;
+  text-align: center;
+  top: 35vh;
+  padding-left: 35vw;
+  font-size: 8rem;
+}
+
+.title-btn {
+  position: relative;
+  top: 35vh;
+  left: 57vw;
+  font-size: 2.5rem;
+  padding: 0.3rem 5rem;
+  border-radius: 20px;
+}
+
+.title-btn {
+  color: black;
+}
+
+/* Main-Page */
+.card {
+  border-radius: 20px;
+  padding: 0px;
+  width: 25rem;
+  height: 68vh;
+  margin: 2rem;
+}
+
+.row {
+  justify-content: center;
+}
+
+.main-image {
+  opacity: 0.7;
+  height: 60vh;
+}
+
+.card-body {
+  padding: 0px;
+  /* text-align: center; */
+}
+
+#customers {
+  padding: 1rem 9rem;
+}
+
+#money {
+  padding: 1rem 7.16rem;
+}
+
+#transac {
+  padding: 1rem 5.6rem;
+}
+
+.card:hover {
+  cursor: pointer;
+  box-shadow: 10px 10px 10px grey;
+}
+
+.main-image:hover {
+  opacity: 2;
+}
+
+/* Customers-Table */
+
+.customers-table {
+  text-align: center;
+}
+
+.thead {
+  font-size: 1.5rem;
+  padding: 1rem;
+}
+
+.padding {
+  padding: 1rem;
+}
+
+.table {
+  padding: 1rem;
+}
+
+/* TRANSFER-MONEY */
+
+.transac {
+  background-color: #d3d3d353;
+  border-radius: 20px;
+  position: relative;
+  width: 29vw;
+  top: 15vh;
+  left: 33vw;
+}
+
+.transac:hover {
+  cursor: pointer;
+  box-shadow: 2px 2px 2px grey;
+}
+
+.transac-head {
+  padding: 1rem;
+  font-weight: bold;
+}
+
+.transac-head:hover {
+  cursor: pointer;
+  box-shadow: 2px 2px 2px grey;
+}
+.transac-text {
+  padding: 0.5rem 1rem;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.transac-text:hover {
+  cursor: pointer;
+  box-shadow: 2px 2px 2px grey;
+}
+
+.transac-input {
+  border-radius: 10px;
+  border: 1px solid white;
+  margin: 1rem 0rem;
+}
+
+.transac-btn {
+  padding: 1rem 11rem;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+/* Transfer-Money */
+
+#card-1,
+p {
+  font-weight: bold;
+  background-color: #d3d3d353;
+  padding: 2rem;
+}
+
+#card-2 {
+  background-color: #d3d3d353;
+}
+
+#card-3,
+p {
+  font-weight: bold;
+  background-color: #d3d3d353;
+  padding: 2rem;
+}
+
+.card-img {
+  opacity: 0.8;
+  border-radius: 20px;
+  height: 60vh;
+}
+
+.card-btn {
+  padding: 14px 144px;
+}
+
+.card-head{
+  font-weight: bold;
+  padding: 2rem;
+}
