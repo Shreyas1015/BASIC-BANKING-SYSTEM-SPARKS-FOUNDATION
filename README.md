@@ -1,2 +1,23 @@
 # BASIC-BANKING-SYSTEM-SPARKS-FOUNDATION
-Hello Everyone! I am glad to share that I have successfully completed my #task1 as a Web and Mobile Development intern at The Sparks Foundation #thesparksfoundation #GRIPFEBRUARY23.  I was expected to create a Basic Banking System a dynamic website which has a dummy data in database for 10 customers. 
+
+SPARKSBANK
+
+The Sparks Foundation Internship Project:Basic Banking System This Web application is used to transfer money between multiple users virtually and also helps to see the transaction details. This project consist of 10 dummy users.
+
+TECHNOLOGY STACK:
+
+--> Front-end : HTML, CSS, Bootstrap & Javascript
+
+--> Back-end : PHP
+
+-->Database : MySQL
+
+FLOW OF THE PROJECT:
+
+Home Page > View all Users > Select and View one User > Transfer Money > Select reciever > View all Users > View Transfer History.
+
+HOSTING PALTFORM --> 000Webhost
+
+Website Link:https:https://shreyassystem.000webhostapp.com/
+
+Contact:https:linkedin.com/in/shreyas-gurav-4a7771257
